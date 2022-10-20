@@ -4,7 +4,7 @@ import Typography from "@mui/material/Typography"
 import { FaAirbnb } from "react-icons/fa"
 import { flexCenter } from '../themes/commonStyles'
 import { pink } from "@mui/material/colors"
-import { textTransform } from '@mui/system'
+
 
 
 
